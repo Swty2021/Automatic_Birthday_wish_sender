@@ -1,4 +1,3 @@
 # Automatic_Birthday_wish_sender
-This is an automatic birthday wish sender.
-The application will automatically send email on birthday
-AN excel file is there with all the necessary details.
+This is a simple application which will automatically send email on birthday
+The application will automatically matches the birthday of an indivisual and sent an email wishing happy birthday.
